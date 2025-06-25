@@ -24,7 +24,7 @@ Trabalho prático da disciplina de Estrutura de Dados, desenvolvido no curso de 
 
 * **Introdução e Objetivo do Projeto** - *Pedro Braga de Lima*
 * **Diferença entre Expressão Infixada e Pós-Fixada** - *Maria Clara Ferreira dos Santos*
-* **Conversão de Expressão Infixada → Pós-Fixada** - *Maria Clara Paiva Oliveira Camelo*
+* **Conversão de Expressão Infixada → Pós-Fixada** - *Rafael Lucas de Sousa Silva*
 * **Conversão de Pós-Fixada → Infixada** - *Lívia Fernandes Ribeiro Bezerra*
 * **Avaliação da Expressão e Operações Especiais** - *Nicole Reinaldo de Carvalho*
 * **Estrutura do Código e Organização em Arquivos** - *Wemerson Conceição Silva*
