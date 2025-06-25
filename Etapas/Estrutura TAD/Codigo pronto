@@ -1,1 +1,24 @@
+expressao.h
+Declaração das estruturas e funções.
+--------------------
+expressao.c
+Implementação das pilhas, conversão e avaliação.
+--------------------
+main.c
+Interface simples para testar o código.
+--------------------
+Para compilar de forma certinha a Estrutura TAD acima
+Abra o terminal na pasta onde estão os arquivos e use:
+gcc main.c expressao.c -o programa -lm
 
+-lm é necessário porque usamos math.h (funções matemáticas como pow() e sqrt()).
+
+Para executar:
+./programa
+
+Exemplo de uso:
+
+Digite a expressao (Ex: 3+4*(2-1)): 3+4*2
+
+Expressao em pos-fixada: 342*+
+Resultado final: 11.00
